@@ -62,19 +62,11 @@ git clone + 刚刚复制的链接
 
 选择**File -> Add local  repository**, 选择你工程的路径，打开即可：
 
-![](/Users/jokerhook/Desktop/屏幕快照 2019-02-25 15.00.40.png)
-
 接着你就会看到你自己的项目在里面。
-
-![](/Users/jokerhook/Desktop/屏幕快照 2019-02-25 15.04.31.png)
 
 填写左下方的**Summary**，作为项目的总结，**Description** 可写可不写，接着点击**Commit to master**。
 
 接着你就会看到**Push origin**，点击该按钮。
 
-![](/Users/jokerhook/Desktop/屏幕快照 2019-02-25 15.09.54.png)
-
 再回到网页的GitHub，你将会看到你的工程项目已经上传到上面了。
-
-![](/Users/jokerhook/Desktop/屏幕快照 2019-02-25 15.10.46.png)
 
