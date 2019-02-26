@@ -23,7 +23,6 @@
 
 ## 在Xcode里面开始进行你的项目
 
----
 
 现在你的GitHub上面有了这个工程，你要怎么样才能在自己的Mac上面开发呢？
 
@@ -53,7 +52,7 @@ git clone + 刚刚复制的链接
 
 ## 将项目上传到GitHub上面
 
----
+
 
 打开[GitHub Desktop](https://desktop.github.com)，没有的朋友先去下载。
 
